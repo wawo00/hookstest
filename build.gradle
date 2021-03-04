@@ -22,6 +22,8 @@ allprojects {
         mavenCentral()
 
         ....sjdahsjdhkja
+
+    // 追加新的内容2
         
     }
 }
